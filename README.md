@@ -1,142 +1,91 @@
 
-# 🌐 Debeatzgh Projects & Tools Hub
 
-Welcome to my collection of **modern digital projects, AI-powered tools, and Blogger widgets**.
-This hub is designed to help creators, entrepreneurs, and tech enthusiasts **explore, build, and scale** their digital presence with professional tools.
+> **Explore, Learn & Test Your Knowledge!**  
+> Fun, challenging, and educational quizzes for **students, learners, and curious minds**.  
+> Take part and **improve your knowledge online** — one quiz at a time!  
 
----
+## 🧩 Choose Your Quiz
 
-## 📚 Featured Projects
+<div class="quiz-grid">
 
-### 1. 📝 Docs Carousel for Blogger
+<div class="quiz-card">
+  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248757.png" alt="Accountancy Quiz">
+  <h3>📘 Accountancy</h3>
+  <p>Challenge your financial and accounting knowledge. Perfect for commerce students!</p>
+  <a href="https://quizzory.in/id/60f309a3f264f969c42cea13" class="quiz-button">Start Quiz</a>
+</div>
 
-![Docs Carousel](https://debeatzgh.wordpress.com/wp-content/uploads/2025/08/designamodernminimalisticcatalogcoverthumbnailfeaturingagridoffloatingbrowserwindowsandappcardseachwithsmalliconslikebloggergithubshoppingcartchatbubbleandnewsletterenvelope6320208726725.jpg)
-A responsive and elegant carousel widget to showcase your documents in Blogger.
-🔗 [Explore Project](https://github.com/debeatzgh1/Docs-Carousel-for-Blogger)
+<div class="quiz-card">
+  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="Famous Personalities Quiz">
+  <h3>🌟 Famous Personalities</h3>
+  <p>How well do you know the world’s most famous icons? Test your general knowledge!</p>
+  <a href="https://quizzory.in/id/60f3081695c1d3699de6d554" class="quiz-button">Start Quiz</a>
+</div>
 
----
+<div class="quiz-card">
+  <img src="https://cdn-icons-png.flaticon.com/512/3703/3703430.png" alt="Sociology Quiz">
+  <h3>📚 Sociology</h3>
+  <p>Learn about society, culture, and human behavior through engaging quiz questions.</p>
+  <a href="https://quizzory.in/id/60f3070a95c1d3699de6d218" class="quiz-button">Start Quiz</a>
+</div>
 
-### 2. 🤖 AI Tech Mastery Hub
+<div class="quiz-card">
+  <img src="https://cdn-icons-png.flaticon.com/512/2172/2172728.png" alt="Economics Quiz">
+  <h3>💰 Economics</h3>
+  <p>Explore your economic knowledge from markets to global finance.</p>
+  <a href="https://quizzory.in/id/60f30571f944c2698774bb9b" class="quiz-button">Start Quiz</a>
+</div>
 
-![AI Hub](https://debeatzgh.wordpress.com/wp-content/uploads/2025/09/asleekandmoderngoogleclassroombannerfortechaihubfeaturingfuturisticdigitalelements261807892942313727.jpg)
-A curated hub of **AI resources, tools, and strategies** to master digital innovation.
-🔗 [Explore Project](https://github.com/debeatzgh1/AI-Tech-Mastery-Hub-)
+<div class="quiz-card">
+  <img src="https://cdn-icons-png.flaticon.com/512/4052/4052987.png" alt="Grammar Quiz">
+  <h3>✍️ Grammar</h3>
+  <p>Sharpen your English grammar and writing skills through interactive questions.</p>
+  <a href="https://quizzory.in/id/60f3047995c1d3699de6cd1c" class="quiz-button">Start Quiz</a>
+</div>
 
----
+<div class="quiz-card">
+  <img src="https://cdn-icons-png.flaticon.com/512/2329/2329986.png" alt="Agriculture Quiz">
+  <h3>🌾 Agriculture</h3>
+  <p>Dive into the world of crops, soil, and sustainable farming methods.</p>
+  <a href="https://quizzory.in/id/60f2fc9f66f0bc69aa9c2b05" class="quiz-button">Start Quiz</a>
+</div>
 
-### 3. 🌍 Tech and AI Hub
+<div class="quiz-card">
+  <img src="https://cdn-icons-png.flaticon.com/512/3039/3039433.png" alt="Inventions Quiz">
+  <h3>💡 Inventions</h3>
+  <p>Test your knowledge of innovations that shaped the modern world.</p>
+  <a href="https://quizzory.in/id/60f30211f264f969c42cda12" class="quiz-button">Start Quiz</a>
+</div>
 
-![Tech Hub](https://debeatzgh.wordpress.com/wp-content/uploads/2025/08/wp-17550753518668254821238386385497.jpg)
-A modern knowledge space offering guides, tutorials, and resources on AI and technology.
-🔗 [Explore Project](https://github.com/debeatzgh1/Tech-and-AI-Hub-)
+<div class="quiz-card">
+  <img src="https://cdn-icons-png.flaticon.com/512/3163/3163478.png" alt="General Quiz">
+  <h3>🧠 General Knowledge</h3>
+  <p>Challenge yourself with mixed questions across various topics!</p>
+  <a href="https://beatzde4.blogspot.com/p/htmlgenbtn-position-fixed-bottom-20px.html" class="quiz-button">Start Quiz</a>
+</div>
 
----
+<div class="quiz-card">
+  <img src="https://cdn-icons-png.flaticon.com/512/2891/2891491.png" alt="Flashcards">
+  <h3>🎴 Flashcards</h3>
+  <p>Revise quickly and learn smarter with our interactive flashcards.</p>
+  <a href="https://beatzde4.blogspot.com/p/open-debeatzgh.html" class="quiz-button">Open Flashcards</a>
+</div>
 
-### 4. 🏠 Home Project
+</div>
 
-![Home UI](https://debeatzgh.wordpress.com/wp-content/uploads/2025/08/createamodernandcleanthumbnailforawebdevelopmentproducttitledmodernhomepagestylingtemplatewithtailwindcss3420170625469385526.jpg)
-Clean, responsive homepage template for Blogger and web creators.
-🔗 [Explore Project](https://github.com/debeatzgh1/Home-)
+<a href="https://beatzde4.blogspot.com/p/htmlgenbtn-position-fixed-bottom-20px.html" class="floating-btn">🎯 View All Quizzes</a>
 
----
-
-### 5. 🛒 My Brand Online – Affiliate Shop
-
-![Affiliate Shop](https://debeatzgh.wordpress.com/wp-content/uploads/2025/08/designadigitalproductse-commerceonlinedeals3545265155247625100.jpg)
-A professional **digital products shop** for affiliate marketing & online income.
-🔗 [Explore Project](https://github.com/debeatzgh1/-My-Brand-Online-Digital-Products-Affiliate-Shop)
-
----
-
-### 6. ✉️ Sliding Newsletter Widget (Pulse Animation)
-
-![Newsletter](https://debeatzgh.wordpress.com/wp-content/uploads/2025/08/amodernuidashboardonalaptopscreenshowingastylishfloatinggreenbuttonlabeledaddservicecard8118683982414859133.jpg)
-Capture emails in style with this animated **sliding newsletter signup widget**.
-🔗 [Explore Project](https://github.com/debeatzgh1/Sliding-Newsletter-Signup-Widget-with-Pulse-Animation)
-
----
-
-### 7. 💼 The Ultimate Guide to Side Hustle
-
-![Side Hustle](https://debeatzgh.wordpress.com/wp-content/uploads/2025/09/facebookposttemplateprompt-digitalmarketingthumbnailidea28attachimage29acleanmoderngraphicwithtextoverlaymasterdigitalmarketingiconsofinstagramanalyticstargetwebsiteemail2812944137932373.jpg)
-A **comprehensive digital guide** packed with strategies for launching and growing your side hustle.
-🔗 [Explore Project](https://github.com/debeatzgh1/The-Ultimate-Guide-to-Side-Hustle)
-
----
-
-### 8. 🎨 Personal Portfolio Site
-
-![Portfolio](https://debeatzgh.wordpress.com/wp-content/uploads/2025/08/adarkthemepreviewofapersonalportfoliowebsitewithglowingblueaccentsprojectshowcasecardsandamodernnavigationbar8701627220551173592.jpg)
-A sleek, modern **personal portfolio website** template for professionals & freelancers.
-🔗 [Explore Project](https://github.com/debeatzgh1/Personal-Portfolio-site-)
-
----
-
-### 9. 📖 Floating Flashcards Widget
-
-![Flashcards](https://debeatzgh.wordpress.com/wp-content/uploads/2025/08/wp-17550753129553143934409952739598.jpg)
-Interactive flashcards for Blogger – perfect for **study, tutorials, and knowledge sharing.**
-🔗 [Explore Project](https://github.com/debeatzgh1/Floating-Flashcards-Widget)
-
----
-
-### 10. 🚀 Floating Dock Smart Iframe Modal
-
-![Dock](https://debeatzgh.wordpress.com/wp-content/uploads/2025/08/amodernminimallayoutwithafloatingdockofcolorfulroundicons28patreonbloggergithub29ontherightsideofacleanwebpagemockup6676994054500999142.jpg)
-A minimal floating dock + iframe modal to **embed external content seamlessly.**
-🔗 [Explore Project](https://github.com/debeatzgh1/-Floating-Dock-Smart-Iframe-Modal)
+</div>
 
 ---
 
-### 11. 🖥 Blogger iFrame Embed Generator
-
-![Embed Tool](https://debeatzgh.wordpress.com/wp-content/uploads/2025/08/createacleanandmodernflat-stylethumbnailforaweb-basedtoolcalledhtmlpagegeneratorforblogger322282329178022614.jpg)
-Generate clean **iframe embed codes** for your Blogger site easily.
-🔗 [Explore Project](https://github.com/debeatzgh1/Blogger-iframe-embed-generator)
-
----
-
-### 12. 🎠 Carousel for Blogger
-
-![Carousel](https://debeatzgh.wordpress.com/wp-content/uploads/2025/08/designacleanmodernthumbnailforabloggerproductscarouseltool1711994558720457535.jpg)
-A modern carousel widget for showcasing products or posts on Blogger.
-🔗 [Explore Project](https://github.com/debeatzgh1/Carousel-for-blogger-)
+### 🧠 Why Take These Quizzes?
+- ✅ Improve academic knowledge  
+- ✅ Build confidence before exams  
+- ✅ Engage in fun, interactive learning  
+- ✅ Great for students, educators, and curious minds  
 
 ---
 
-### 13. ⏱ Improve Productivity with AI
-
-![Productivity](https://debeatzgh.wordpress.com/wp-content/uploads/2025/08/designacleanflat-layofalaptopshowingcodeoraidiagramspairedwithanotebookandcoffee-capturingproductivityanddigitalcreativity3607438369271002624.jpg)
-An AI-powered web app project to **boost personal productivity and creativity.**
-🔗 [Explore Project](https://github.com/debeatzgh1/Improve-productivity-with-AI-Web-App-project-)
-
----
-
-### 14. 🧩 TechAdapt – Strategies for Startups & Individuals
-
-![TechAdapt](https://debeatzgh.wordpress.com/wp-content/uploads/2025/08/amoderndigitalbloggersittingatasleekdeskwithaglowinglaptopsurroundedbyiconslikewordpresspendollarsignandgrowthchart2305198289795713004.jpg)
-Smart **digital adaptation strategies** for startups, businesses, and individuals.
-🔗 [Explore Project](https://github.com/debeatzgh1/TechAdapt-Solutions-Strategies-for-Modern-Startups-and-Individuals)
-
----
-
-### 15. 🛍 Blogger Product Carousel + WhatsApp Button
-
-![Product Carousel](https://debeatzgh.wordpress.com/wp-content/uploads/2025/08/designamodernminimalisticlogoforadigitaltoolcalledall-in-onefloatinginfomenuforblogger5444122951694103302.jpg)
-Showcase your products in a sleek carousel with a **WhatsApp floating button** for instant engagement.
-🔗 [Explore Project](https://github.com/debeatzgh1/Blogger-Product-Carousel-with-WhatsApp-Floating-Button)
-
----
-
-## 📌 Final Note
-
-These projects are created to empower **bloggers, creators, and digital entrepreneurs** with easy-to-use, professional, and modern tools.
-
-💡 Feel free to fork, contribute, or share feedback on any project.
-📩 For collaboration, reach out anytime!
-
----
-
-✨ **Which project do you find most useful for your own work?** Drop your feedback—it helps shape future tools.
-
-# [Portfolio](https://debeatzgh1.github.io/Personal-Portfolio-site-/)
+**© 2025 Debeatzgh Quizzes**  
+*Designed for Learners, Students & Curious Minds 💡*
